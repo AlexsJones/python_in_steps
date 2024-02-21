@@ -28,5 +28,21 @@ Hello,World!
 | 3       | Classes     | `python examples/3/main.py` |
 | 4       | Modules     | `python examples/4/main.py` |
 | 5       | Packages    | `python examples/5/main.py` |
+| 6       | Exceptions  | `python examples/6/main.py` |
 
+
+## Todo 
+
+| Example | Description | How to run | 
+|---------|-------------|------------|
+| 7       | I/O         | `python examples/7/main.py` |
+| 8       | Decorators  | `python examples/8/main.py` |
+| 9       | Generators  | `python examples/9/main.py` |
+| 10      | Testing     | `python examples/10/main.py` |
+| 11      | Debugging   | `python examples/11/main.py` |
+| 12      | Profiling   | `python examples/12/main.py` |
+| 13      | Logging     | `python examples/13/main.py` |
+| 14      | Virtualenv  | `python examples/14/main.py` |
+| 15      | Requests    | `python examples/15/main.py` |
+| 16      | Flask       | `python examples/16/main.py` |
 
