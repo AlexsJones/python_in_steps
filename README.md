@@ -3,7 +3,7 @@
 This is a repository to get you from zero to comfortable with Python.
 It is a work in progress, and largely focuses on helping you learn how to learn.
 
-## How to run an example
+## How to run an example
 
 Check out the repository, to do this you'll need `git` on your command line.
 
