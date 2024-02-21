@@ -20,28 +20,24 @@ You can then run the examples by running the python interpreter and passing the 
 Hello,World!
 ```
 
-| Example | Description | How to run | 
-|---------|-------------|------------|
-| 0       | Hello World | `python examples/0/main.py` |
-| 1       | Variables   | `python examples/1/main.py` |
-| 2       | Functions   | `python examples/2/main.py` |
-| 3       | Classes     | `python examples/3/main.py` |
-| 4       | Modules     | `python examples/4/main.py` |
-| 5       | Packages    | `python examples/5/main.py` |
-| 6       | Exceptions  | `python examples/6/main.py` |
-| 7       | I/O         | `python examples/7/main.py` |
+| Example | Description | How to run | Link to File |
+|---------|-------------|------------| ------------ |
+| 0       | Hello World | `python examples/0/main.py` | [main.py](examples/0/main.py) |
+| 1       | Variables   | `python examples/1/main.py` | [main.py](examples/1/main.py) |
+| 2       | Functions   | `python examples/2/main.py` | [main.py](examples/2/main.py) |
+| 3       | Classes     | `python examples/3/main.py` | [main.py](examples/3/main.py) |
+| 4       | Modules     | `python examples/4/main.py` | [main.py](examples/4/main.py) |
+| 5       | Packages    | `python examples/5/main.py` | [main.py](examples/5/main.py) |
+| 6       | Exceptions  | `python examples/6/main.py` | [main.py](examples/6/main.py) |
+| 7       | I/O         | `python examples/7/main.py` | [main.py](examples/7/main.py) |
+| 8       | Decorators  | `python examples/8/main.py` | [main.py](examples/8/main.py) |
+| 9       | Generators  | `python examples/9/main.py` | [main.py](examples/9/main.py) |
+| 10      | Testing     | `python examples/10/main.py` | [main.py](examples/10/main.py) |
+| 11      | Debugging   | `python examples/11/main.py` | [main.py](examples/11/main.py) |
+| 12      | Profiling   | `python examples/12/main.py` | [main.py](examples/12/main.py) |
+| 13      | Logging     | `python examples/13/main.py` | [main.py](examples/13/main.py) |
+| 14      | Virtualenv  | `python examples/14/main.py` | [main.py](examples/14/main.py) |
+| 15      | Requests    | `python examples/15/main.py` | [main.py](examples/15/main.py) |
+| 16      | Flask       | `python examples/16/main.py` | [main.py](examples/16/main.py) |
 
-## Todo 
-
-| Example | Description | How to run | 
-|---------|-------------|------------|
-| 8       | Decorators  | `python examples/8/main.py` |
-| 9       | Generators  | `python examples/9/main.py` |
-| 10      | Testing     | `python examples/10/main.py` |
-| 11      | Debugging   | `python examples/11/main.py` |
-| 12      | Profiling   | `python examples/12/main.py` |
-| 13      | Logging     | `python examples/13/main.py` |
-| 14      | Virtualenv  | `python examples/14/main.py` |
-| 15      | Requests    | `python examples/15/main.py` |
-| 16      | Flask       | `python examples/16/main.py` |
 
